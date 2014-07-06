@@ -1,6 +1,10 @@
 import java.lang.Object;
 
-
+/**
+ * 
+ * @author r-carloz
+ *
+ */
 public class NumberString extends Object {
 	public static void main(String[] args) {
 		String str = convertNumber("2054");
