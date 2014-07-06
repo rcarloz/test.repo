@@ -1,7 +1,8 @@
 import java.lang.Object;
 
 /**
- * 
+ * Class converts a number to a string.
+ * Used a Git test. 
  * @author r-carloz
  *
  */
