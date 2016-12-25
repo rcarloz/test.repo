@@ -13,7 +13,7 @@ public class NumberString extends Object {
 	}
 	/**
 	 * Method converts a string of numeric characters to an alphabetic
-	 * string using the map [0-9] -> [A-J].
+	 * string using the map [0-9] -> [A-J]; letters ABCDEFGHUJ.
 	 * @param strNumber
 	 * @return buffer
 	 */
